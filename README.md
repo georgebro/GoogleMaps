@@ -1,2 +1,2 @@
 # Google Maps
-# Android application for presenting google maps 
+# Android application for presenting google maps.
